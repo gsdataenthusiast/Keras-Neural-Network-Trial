@@ -1,4 +1,4 @@
-# Keras-Neural-Network-Trial
+# Keras-Neural-Network-Trial - Output Analysis
 Artificial Neural Network for 4- class classification problem:
 
 To build an artificial neural network that classifies the input into four different classes, the linear stack of layers was constructed using sequential model. I tried few different models with combination of hidden layers to find an optimal model with reasonable number of layers.
